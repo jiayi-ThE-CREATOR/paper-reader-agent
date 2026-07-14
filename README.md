@@ -1,5 +1,7 @@
 # paper-reader-agent
 
+**简体中文** | [English](README.en.md) | [日本語](README.ja.md)
+
 手动 CLI：抓取学术论文（URL / DOI / PDF）→ Claude 结构化摘要 → 写入本地历史 + Obsidian vault。
 
 > 这是 [macos-llm-agents](https://github.com/jiayi-ThE-CREATOR/macos-llm-agents) 的独立拆分仓库，只含这一个 agent（附带独立运行所需的最小工具集），保留原仓库中该 agent 目录的完整提交历史。仓库内不含任何密钥或个人路径——私人配置以 `*.example` 模板入库，真身由 `.gitignore` 排除。
