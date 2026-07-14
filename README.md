@@ -59,7 +59,6 @@ tools/load_env.sh           # 作用域密钥注入
 tools/vault_paths.py        # vault 路径注册表解析（Python 侧）
 tools/vault_index_sync.py   # vault index/log 对账（写入后自动调用）
 vault.paths.example.env     # vault 路径模板
-scripts/                    # install_launchagents.sh（本 agent 无 plist，保留以与其他拆分仓库结构一致）
 ```
 
 ## 平台要求
